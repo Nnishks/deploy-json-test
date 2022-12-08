@@ -19,13 +19,8 @@
             "text": "You are the spiderman of this world"
         }
     ],
-    "Book":[
+   "users":[
 
-    ],
-    "cart":[
-
-    ],
-    "orders":[
-        
-    ]
+   ],
+   "posts":[]
 }
